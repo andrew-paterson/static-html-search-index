@@ -1,0 +1,15 @@
+{
+  "name": "static-html-search-index",
+  "version": "1.0.0",
+  "description": "\"A module that reads a directory of static HTML files and generates a JSON index file\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Paterson",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1"
+  }
+}
